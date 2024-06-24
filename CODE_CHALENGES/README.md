@@ -1,4 +1,4 @@
-# Bem vindo validações e Testes na Prática QA!
+# Bem vindo ao validações e Testes na Prática QA!
 
 <p align="center">
   <img src='https://github.com/SueberDEV/DESAFIOS_DIO/blob/main/IMG/1581595049242.jpeg' width='350'>
