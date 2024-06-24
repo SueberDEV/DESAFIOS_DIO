@@ -67,10 +67,10 @@ A tabela abaixo apresenta exemplos com alguns dados de entrada e suas respectiva
 ## Código de validação em cada linguagem:
 
 ##### [Validações e Testes na Prática com C](https://github.com/SueberDEV/DESAFIOS_DIO/blob/9fa9a0ab2e3190c3d61c00eace42915ce248a979/CODE_CHALENGES/Valida%C3%A7%C3%B5es%20e%20Testes%20na%20Pr%C3%A1tica%20com%20C%23.txt)
-##### [Validações e Testes na Prática com C#](https://github.com/SueberDEV/DESAFIOS_DIO/blob/b73ec51f08f34f5713895b52bde112093ff2c507/CODE_CHALENGES/Valida%C3%A7%C3%B5es%20e%20Testes%20na%20Pr%C3%A1tica%20com%20C.txt)
-##### [Validações e Testes na Prática com Java](https://github.com/SueberDEV/DESAFIOS_DIO/blob/b73ec51f08f34f5713895b52bde112093ff2c507/CODE_CHALENGES/Valida%C3%A7%C3%B5es%20e%20Testes%20na%20Pr%C3%A1tica%20com%20Java.txt)
-##### [Validações e Testes na Prática com JavaScript](https://github.com/SueberDEV/DESAFIOS_DIO/blob/b73ec51f08f34f5713895b52bde112093ff2c507/CODE_CHALENGES/Valida%C3%A7%C3%B5es%20e%20Testes%20na%20Pr%C3%A1tica%20com%20JavaScript.txt)
-##### [Validações e Testes na Prática com Python](https://github.com/SueberDEV/DESAFIOS_DIO/blob/b73ec51f08f34f5713895b52bde112093ff2c507/CODE_CHALENGES/Valida%C3%A7%C3%B5es%20e%20Testes%20na%20Pr%C3%A1tica%20com%20Python.txt)
+##### [Validações e Testes na Prática com C#](https://github.com/SueberDEV/DESAFIOS_DIO/blob/9fa9a0ab2e3190c3d61c00eace42915ce248a979/CODE_CHALENGES/Valida%C3%A7%C3%B5es%20e%20Testes%20na%20Pr%C3%A1tica%20com%20C.txt)
+##### [Validações e Testes na Prática com Java](https://github.com/SueberDEV/DESAFIOS_DIO/blob/9fa9a0ab2e3190c3d61c00eace42915ce248a979/CODE_CHALENGES/Valida%C3%A7%C3%B5es%20e%20Testes%20na%20Pr%C3%A1tica%20com%20Java.txt)
+##### [Validações e Testes na Prática com JavaScript](https://github.com/SueberDEV/DESAFIOS_DIO/blob/9fa9a0ab2e3190c3d61c00eace42915ce248a979/CODE_CHALENGES/Valida%C3%A7%C3%B5es%20e%20Testes%20na%20Pr%C3%A1tica%20com%20JavaScript.txt)
+##### [Validações e Testes na Prática com Python](https://github.com/SueberDEV/DESAFIOS_DIO/blob/9fa9a0ab2e3190c3d61c00eace42915ce248a979/CODE_CHALENGES/Valida%C3%A7%C3%B5es%20e%20Testes%20na%20Pr%C3%A1tica%20com%20Python.txt)
 
 ## Autor
 
