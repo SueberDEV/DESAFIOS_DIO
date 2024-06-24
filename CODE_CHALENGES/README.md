@@ -65,6 +65,18 @@ A tabela abaixo apresenta exemplos com alguns dados de entrada e suas respectiva
 | frank_test@com      |                                                      |
 
 
+
+##### [Validações e Testes na Prática com C](https://github.com/SueberDEV/DESAFIOS_DIO/blob/main/CODE_CHALENGES/Valida%C3%A7%C3%B5es%20e%20Testes%20na%20Pr%C3%A1tica%20com%20C#.txt)
+##### [Validações e Testes na Prática com C#]()
+##### [Validações e Testes na Prática com Java]()
+##### [Validações e Testes na Prática com JavaScript]()
+##### [Validações e Testes na Prática com Python]()
+
+
+
+
+
+
 ## Autor
 
 -   **Suéber F. Passos** - [LinkedIn](https://www.linkedin.com/in/sueberfp) - [GitHub](https://github.com/SueberDEV)
