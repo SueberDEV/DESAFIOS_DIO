@@ -15,7 +15,7 @@
     
 - Logo abaixo se encontram os documentos produzidos no processo de estudo:
   
-  - <a href='https://github.com/SueberDEV/Desafio-dia-a-dia-de-um-QA-DIO/tree/main/Desafio%20dia-a-dia%20de%20um%20QA-DIO/1-Plano%20e%20fluxo%20de%20trabalho%20%E2%80%93%20Projeto%20SwagLabsShopping'>Plano e fluxo de trabalho – Projeto SwagLabsShopping</a>
+  - <a href='https://github.com/SueberDEV/DESAFIOS_DIO/tree/02c77491f69690a5d1f43ee44d3c1acab9a73a9a/QA_Daily_Experience/Desafio%20dia-a-dia%20de%20um%20QA-DIO/1-Plano%20e%20fluxo%20de%20trabalho%20%E2%80%93%20Projeto%20SwagLabsShopping'>Plano e fluxo de trabalho – Projeto SwagLabsShopping</a>
   - <a href='https://github.com/SueberDEV/Desafio-dia-a-dia-de-um-QA-DIO/tree/main/Desafio%20dia-a-dia%20de%20um%20QA-DIO/2%20-Fluxo%20de%20vida%20de%20um%20BUG%20%E2%80%93%20Projeto%20SwagLabsShopping'>Fluxo de vida de um BUG</a>
   - <a href='https://github.com/SueberDEV/Desafio-dia-a-dia-de-um-QA-DIO/tree/main/Desafio%20dia-a-dia%20de%20um%20QA-DIO/3-Mind%20Map%20User%20story%20Login%20%E2%80%93%20Projeto%20SwagLabsShopping'>Mind Map User story Login</a>
   - <a href='https://github.com/SueberDEV/Desafio-dia-a-dia-de-um-QA-DIO/tree/main/Desafio%20dia-a-dia%20de%20um%20QA-DIO/4-User%20Story%20%E2%80%93%20Projeto%20SwagLabsShopping'>User Story</a>
